@@ -1,0 +1,94 @@
+* {
+    /* box-sizing: border-box; */
+}
+
+body {
+   background-color: 1A1B21; 
+}
+
+img {
+    margin: -8px;
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    margin-right: -20px;
+    
+}
+
+.main-container {
+    background-color: rgb(26,27,33);
+    margin: -18px;
+}
+
+.footer {
+    background-color: rgb(22,22,25);
+    /* padding: 8px; */
+    margin-left: -8px;
+    margin-bottom: -10px;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(145,142,155);
+    
+    
+}
+
+.my-name {
+    margin: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+    color: white;
+}
+
+.my-title {
+    text-align: center;
+    color: rgb(243,191,153);
+    margin-top: -23px;
+    margin-left: -6px;
+}
+
+.my-site {
+    text-align: center;
+    color: white;
+    margin-top: -14px;
+    margin-left: -6px;
+    font-size: 9px;
+}
+
+.btns {
+    text-align: center;
+    margin-left: -10px;
+}
+
+.my-email {
+    color: black;
+    margin-right: 15px;
+    border-radius: 0px;
+    padding: 7px 17px;
+    font-size: 15px;
+    border-color: white;
+}
+
+.my-linkedin {
+    color: white;
+    padding: 7px 10px;
+    border-radius: 0px;
+    background-color: rgb(80,147,226);
+    border-color: rgb(80,147,226);
+    box-shadow: 0px;
+    font-size: 15px
+}
+
+.content {
+    text-align: left;
+    margin-left: 35px;
+    margin-right: 45px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.twit {
+    margin-right: 15px;
+}
